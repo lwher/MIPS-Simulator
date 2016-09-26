@@ -1,15 +1,15 @@
-ÊµÏÖÒ»¸öÖ§³ÖËùÓÐÕûÊý²Ù×÷µÄMIPS½âÊÍÆ÷£¬²¢Ä£ÄâÎå¼¶Á÷Ë®¹¤×÷Ô­Àí
+å®žçŽ°ä¸€ä¸ªæ”¯æŒæ‰€æœ‰æ•´æ•°æ“ä½œçš„MIPSè§£é‡Šå™¨ï¼Œå¹¶æ¨¡æ‹Ÿäº”çº§æµæ°´å·¥ä½œåŽŸç†
 
-¾ßÌåÊµÏÖÒªÇó¼ûmips-simulator.pdf
+å…·ä½“å®žçŽ°è¦æ±‚è§mips-simulator.pdf
 
-SPIM.exe¼´Îª½âÊÍÆ÷(±àÒë»·¾³Îªwindows£¬ÆäËûÆ½Ì¨ÓÃ»§¿É×ÔÐÐ±àÒëÎÄ¼þ¼ÐSPIMÖÐµÄÔ´Âë)
+ç¼–è¯‘SPIM.cppå³å¯å¾—åˆ°SPIM.exeï¼ˆSPIMè§£é‡Šå™¨ï¼‰
 
-Ê¹ÓÃ·½·¨£ºÔÚµ±Ç°Ä¿Â¼ÏÂ´ò¿ª¿ØÖÆÌ¨£¬ÊäÈëÃüÁî SPIM + ¿Õ¸ñ + xxxxx.s
-(ÆäÖÐ£¬xxxxx.s¼´ÎªÒªÔËÐÐµÄmipsÔ´Âë)
+ä½¿ç”¨æ–¹æ³•ï¼šåœ¨å½“å‰ç›®å½•ä¸‹æ‰“å¼€æŽ§åˆ¶å°ï¼Œè¾“å…¥å‘½ä»¤ SPIM + ç©ºæ ¼ + xxxxx.s
+(å…¶ä¸­ï¼Œxxxxx.så³ä¸ºè¦è¿è¡Œçš„mipsæºç )
 
-²âÊÔÊý¾Ý£º
+æµ‹è¯•æ•°æ®ï¼š
 https://github.com/lwher/mips-simulator-testcases
 
-checker.exeÎª²âÊÔ½Å±¾£¬½²ÆäÓëSPIM.exeÒ»Æð·ÅÔÚÊý¾ÝÒÔ¼°ÊäÈëÊä³öËùÔÚÄ¿Â¼£¬ÔÚÃüÁîÐÐÖÐÔËÐÐ¼´¿ÉÖªµÀ½á¹û¡£
+checker.exeä¸ºæµ‹è¯•è„šæœ¬ï¼Œå°†å…¶ä¸ŽSPIM.exeä¸€èµ·æ”¾åœ¨æ•°æ®ä»¥åŠè¾“å…¥è¾“å‡ºæ‰€åœ¨ç›®å½•ï¼Œåœ¨å‘½ä»¤è¡Œä¸­è¿è¡Œå³å¯çŸ¥é“ç»“æžœã€‚
 
 copyright(code): lwher
