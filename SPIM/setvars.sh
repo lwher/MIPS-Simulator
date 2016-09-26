@@ -1,0 +1,1 @@
+export MSCK=./MIPS
